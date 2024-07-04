@@ -1,0 +1,52 @@
+h1 {
+    text-align: right;
+    font-size: 30px;
+    margin-right: 38px;
+}
+
+div#calc {
+    background-color: rgba(220, 228, 231, 0.8);
+    width: 20%;
+    margin-left: 70%;
+    padding: 40px 30px 40px 30px;
+    box-shadow: 5px 5px 10px black;
+    border: solid royalblue 2px;
+}
+
+body {
+    font: normal 18pt arial;
+    background-image: url(numero3.jpg);
+
+}
+
+input {
+    font: normal 18pt arial;
+    width: 100px;
+}
+
+div#res {
+    margin-top: 20px;
+}
+
+div#resdiv {
+    margin-top: 20px;
+
+}
+
+div#ressub {
+    margin-top: 20px;
+
+}
+
+div#resmult {
+    margin-top: 20px;
+
+}
+
+input#botao {
+    background: royalblue;
+    color: white;
+    border-radius: 10px;
+    width: 26px;
+    height: 30;
+}

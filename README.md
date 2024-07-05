@@ -3,7 +3,7 @@ O projeto é de uma calculadora simples, que faz as seguintes operações: soma,
 
 ## Vídeo de apresentação do projeto
 
-[<img src="./tela .gif" alt="gif da tela do projeto">]
+<img src="./tela .gif" alt="gif da tela do projeto">
 
 ## Tecnologias Utilizadas
 

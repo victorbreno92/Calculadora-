@@ -1,13 +1,13 @@
 h1 {
-    text-align: right;
+    text-align: center;
     font-size: 30px;
-    margin-right: 38px;
+
 }
 
 div#calc {
     background-color: rgba(220, 228, 231, 0.8);
     width: 20%;
-    margin-left: 70%;
+    margin-left: 55%;
     padding: 40px 30px 40px 30px;
     box-shadow: 5px 5px 10px black;
     border: solid royalblue 2px;

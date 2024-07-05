@@ -8,7 +8,7 @@ div#calc {
     background-color: rgba(220, 228, 231, 0.8);
     width: 200px;
     height: 550px;
-    padding: 40px 30px 40px 30px;
+    padding: 20px 20px 75px 20px;
     box-shadow: 5px 5px 10px black;
     border: solid royalblue 2px;
     display: inline-block;
@@ -28,21 +28,21 @@ input {
 }
 
 div#res {
-    margin-top: 20px;
+    margin-top: 5px;
 }
 
 div#resdiv {
-    margin-top: 20px;
+    margin-top: 5px;
 
 }
 
 div#ressub {
-    margin-top: 20px;
+    margin-top: 5px;
 
 }
 
 div#resmult {
-    margin-top: 20px;
+    margin-top: 5px;
 
 }
 

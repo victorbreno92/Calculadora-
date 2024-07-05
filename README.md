@@ -1,5 +1,5 @@
 # Readme Calculadora
-O projeto é de uma calculadora simples que faz as seguintes operações de soma, subtração, multiplicação e divisão, exibindo o resultado dessas operações.
+O projeto é de uma calculadora que realiza 4 operações básicas, sendo elas: soma, subtração, divisão e multiplicação.
 
 ## Vídeo de apresentação do projeto
 
